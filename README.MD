@@ -14,6 +14,6 @@ The page is using HTML/CSS and vanilla JS. No need for anything else because the
 
 Absolutely! You are free to use this on your website. If you made improvements to my (awful) code a PR would be greatly appreciated!
 
-# Preview:
+# Credits
 
-N/A (at the moment)
+[Astronomer's Visual Pack - Beyond](https://forum.kerbalspaceprogram.com/topic/160878-ksp-1123-astronomers-visual-pack-beyond-v413-july-17th-2022/)'s planet screenshots (A graphic mod for Kerbal Space Program)
