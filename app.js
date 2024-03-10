@@ -10,6 +10,7 @@ const randomWebPage = [
   "https://blackmesa.jarvis09.com",
   "https://floridaman.jarvis09.com",
   "https://portfolio.jarvis09.com",
+  "https://toncube.jarvis09.com",
 ];
 
 function getRandomItem(array) {
